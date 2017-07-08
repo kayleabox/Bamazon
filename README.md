@@ -1,6 +1,6 @@
 # Bamazon
 
-![Screenshot](images/customerP1.png)
+![Screenshot](../images/customerP1.png)
 
 ![Screenshot](images/customerP2.png)
 
