@@ -1,6 +1,6 @@
 # Bamazon
 
-![Screenshot](Bamazon/images/customerP1.png)
+![Screenshot](https://github.com/kayleabox/Bamazon/blob/master/images/customerP1.PNG)
 
 ![Screenshot](images/customerP2.png)
 
